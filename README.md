@@ -72,3 +72,5 @@ response:
 ## License
 
 MIT
+
+<!-- refreshed: 2026-09-08 -->
