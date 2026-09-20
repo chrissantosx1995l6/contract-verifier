@@ -73,4 +73,4 @@ response:
 
 MIT
 
-<!-- refreshed: 2026-09-19 -->
+<!-- refreshed: 2026-09-20 -->
